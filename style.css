@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #333333;
+}
+
+.section-homework {
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+
+h1 {
+  color: white;
+  letter-spacing: 2px;
+  margin-top: 2rem;
+  font-size: 4rem;
+}
+
+.user-text {
+  color: chocolate;
+  font-size: 20px;
+  margin-top: 2rem;
+  line-height: 4rem;
+}
+
+.clock-color {
+  font-size: 2rem;
+}
